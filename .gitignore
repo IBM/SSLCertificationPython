@@ -1,0 +1,6 @@
+ApplicationDemo/venv
+# ApplicationDemo/cert.pem
+# ApplicationDemo/key.pem
+__pycache__
+.env
+venv

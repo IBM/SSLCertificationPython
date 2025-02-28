@@ -1,9 +1,8 @@
-# SSLCertificationPython
-Basic Starter Tutorial on Bee-agent to do devops tasks using Agentic AI like deploying an application, checking and renewing the ssl certificate expiry of the same application.
+# BEE-AGENT TOOLS FOR DEVOPS TASKS
 
-# SSL-Agent 
-
-### This Repo contains a Basic application (ApplicationDemo) which will be deployed, renew it's ssl certificate and check the certificate expiry using Agentic AI in Bee-Agent.<br> It also has another repo which has custom tools for Bee-Agent.<br> The tools can be found in the folder ApplicationUtilities.
+### Automated Tools for DevOps tasks like deployment, ssl certificate renewal and checking certificate expiry.
+### This Repo contains automated scripts with a flask application which exposes these automated scripts to a local url. Bee-Agent can hit these api's to run these scripts as it's tools.
+### This Repo also includes this scripts as python function tools in the tools directory, which can be directly fed to Bee-Agent as a tool.
 
 ## Get Started
 
